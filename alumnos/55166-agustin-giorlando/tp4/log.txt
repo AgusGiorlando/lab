@@ -1,0 +1,11 @@
+Archivo de log creado
+Socket creado
+Socket configurado
+Enlace creado
+Servidor puesto en escucha
+Conexion establecida
+ERROR: 404 Not Found
+Conexion establecida
+ERROR: 404 Not Found
+Conexion establecida
+ERROR: 404 Not Found

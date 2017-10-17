@@ -1,0 +1,4 @@
+Archivo de log creado
+Archivo input abierto
+Archivo input mapeado
+Variable mostrar mapeada

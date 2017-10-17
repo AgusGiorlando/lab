@@ -1,0 +1,49 @@
+Archivo de log creado
+Archivo input abierto
+Archivo output creado
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Hijo 2 escribe en output
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Hijo 2 escribe en output
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Hijo 2 escribe en output
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Hijo 2 escribe en output
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Hijo 2 escribe en output
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Padre escribe en hijo 1
+Padre escribe en hijo 2
+Hijo 2 escribe en output
+Hijo 2 escribe en output
+Hijo 1 envia palabras
