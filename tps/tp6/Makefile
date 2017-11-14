@@ -1,12 +1,16 @@
 CC = gcc
 CFLAGS = -g -Wall
 
-TARGETS = web
+TARGETS = srv
 
 all: $(TARGETS)
 
-webito: server.c service.c
+srv: srv.c
 	$(CC) $(CFLAGS) -o $@ $^ $(LDLIBS)
+
+
+test: srv
+	./srv
 
 
 clean:
