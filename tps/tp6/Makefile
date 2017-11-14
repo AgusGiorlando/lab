@@ -5,7 +5,7 @@ TARGETS = srv
 
 all: $(TARGETS)
 
-srv: srv.c
+srv: srv.c service.c
 	$(CC) $(CFLAGS) -o $@ $^ $(LDLIBS)
 
 
